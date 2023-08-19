@@ -62,7 +62,7 @@ def markdown_to_json(input_file):
 
 if __name__ == "__main__":
     # Input Markdown file path
-    input_file = r'C:\Users\ankit\Desktop\readme.md'
+    input_file = r'C:\Users\ankit\Desktop\input.md'
 
     
     # Convert and print the questions as JSON
